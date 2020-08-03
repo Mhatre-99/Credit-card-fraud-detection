@@ -1,1 +1,1 @@
-The goal of this project is to to detect fraudalent credit card transactions with the help od Deep Learning. I've taken the data from Kaglle.com. I have trained a Nueral Network to detect the transaction. I have used python libraries such as Tensorflow, Keras & Scikit learn.  
+The goal of this project is to detect fraudulent credit card transactions with the help of Deep Learning. I've taken the data from Kaglle.com. Iive trained a Nueral Network to detect the transaction. I have used Python libraries such as Tensorflow, Keras & Scikit learn.  
